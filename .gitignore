@@ -34,3 +34,16 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+
+# отчёты
+*.html
+*.doc
+*.docx
+*.pdf
+
+# папка с сырыми данными
+*/data/raw/**
+
+# папки веб-страниц
+*_files/
+
